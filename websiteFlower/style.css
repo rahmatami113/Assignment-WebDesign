@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.jumbotron {
+    font-size: 20px;
+    padding: 30px;
+    background-color:#A3506A;
+    text-align: center;
+    color: #F3EEEA;
+    font-family: 'Hobo Std';
+ }
+ nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+    text-align: center;
+    
+ }
+ nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #A3506A;
+    text-align: center;
+ }
+ nav a:hover {
+    font-weight: bold;
+ }
+ nav {
+    background-color: #F3EEEA;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    text-align: center;
+ }
+
+.navbar-text{
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #A3506A;
+}
+.section-1{
+    text-align: center;
+    font-size: 20px;
+    padding: 150px;
+    background: url('flower3.jpeg')
+    
+}
+.section-2{
+    text-align: center;
+    font-size: 20px;
+    padding: 150px;
+    background-color: #d9b7b0;
+}
+.section-3{
+    text-align: left;
+    font-size: 15px;
+    padding: 50px;
+    background: url('https://bouqs-production-weblinc.netdna-ssl.com/media/W1siZiIsIjIwMjAvMDIvMDYvMjEvMDMvMTMvZTQ4Mzk2MjMtNDY0Ny00NDk3LWJlOTQtZDIzZDQxOWViYjk3L0Jhbm5lcnNfQmVzdFNlbGxlcnMyMDIwLmpwZyJdLFsicCIsIm9wdGltIl1d/Banners_BestSellers2020.jpg?sha=d69a9d46b507da92')
+
+}
+.section-4{
+    text-align: center;
+    font-size: 20px;
+    padding: 150px;
+    background-color:  #d9b7b0;
+    
+}
+.card {
+    background-color: #F3EEEA;
+    padding: 20px;
+    box-shadow: 0 0 2px 1px #34c6eb;
+    border-radius: 40px;
+}
+
+.judul{
+    color: #A3506A;;
+}
+.text-kecil{
+    color: #A3506A;
+}
+.tombol-pink{
+    background: #A3506A;
+    color: white;
+    border: none;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+}
+.footer{
+    margin-top: 0px;
+    background:#A3506A;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer{
+    margin-top: 0px;
+    background:#A3506A;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #F3EEEA;
+    font-family: 'Hobo Std';
+}
+.judul-footer{
+    color: #F3EEEA;
+}
+
+.tombol-putih{
+    background: #F3EEEA;
+    color: #A3506A;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.isi {
+	text-align: left;
+    font-size: 15px;
+    padding: 150px;
+	background: url('flower4.jpg');
+    
+}
+
+.pengertian {
+    background-color: #F3EEEA;
+    padding: 20px;
+    border-radius: 40px;
+	color: #A3506A;
+}
+.Hubungi {
+    background-color: #F3EEEA;
+    padding: 20px;
+    border-radius: 40px;
+	color: #A3506A;
+}
+.section-heading{
+	color: #F3EEEA;
+	text-decoration: none;
+    text-align: center;
+    background-color: #A3506A;
+    padding: 30px;
+}
+.cardview {
+    width: 1250px;
+    max-width: 100%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.kartu {
+    width: max-content;
+    padding: 20px;
+    box-shadow: 0 0 2px 1px #34c6eb;
+    border-radius: 40px;
+}
+
+.section-5{
+    text-align: center;
+    font-size: 15px;
+    position: absolute;
+    align-items: center;
+	width: 100%; 
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.section-5 .card img{width:300px;}
