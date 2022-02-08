@@ -5,7 +5,7 @@ This is one of assignments, make a website view
 <h4>Happy Flowers</h4>
 <ol>
 <li>Halaman Awal</li>
-<li>Halaman Refrensi Flower </li>
+<li>Halaman Referensi Flower </li>
 <li>Halaman Flower </li>
 <li>Halaman shop </li>
 <li>Halaman Profile</li>
