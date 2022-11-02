@@ -15,9 +15,9 @@ This is one of assignments, make a website view
 <table>
   <tr><td><strong>Web Happy Flowers</strong></td></tr>
   <tr>
-    <td><p align="center"><img src="/Pictures/Screenshot-home.png" height="400"></p></td>
+    <td><p align="center"><img src="/Pictures/Screenshot-home.png"></p></td>
     <tr>
-    <td><p align="center"><img src="/Pictures/Screenshot-halaman web.png" height="400"></p></td>
+    <td><p align="center"><img src="/Pictures/Screenshot-Flower.png"></p></td>
   </tr>
    </tr>
 </table>
