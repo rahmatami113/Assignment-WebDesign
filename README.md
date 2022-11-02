@@ -12,6 +12,14 @@ This is one of assignments, make a website view
 <li>Halaman Login</li>
 </ol>
 
+<table>
+  <tr><td><strong>Web Happy Flowers</strong></td></tr>
+  <tr>
+    <td><p align="center"><img src="/Pictures/Screenshot-Laravel05.png"></p></td>
+    <td><p align="center"><img src="/Gambar/Screenshot-Laravel02.png"></p></td>
+  </tr>
+</table>
+
 <h4>Nama Kelompok:</h4>
 <p>1910501051 Rahmatami Novitiya Utari</p>
 <p>1910501055 Dheasy Nurfadhilah</p>
