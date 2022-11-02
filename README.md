@@ -15,8 +15,8 @@ This is one of assignments, make a website view
 <table>
   <tr><td><strong>Web Happy Flowers</strong></td></tr>
   <tr>
-    <td><p align="center"><img src="/Pictures/Screenshot-Laravel05.png"></p></td>
-    <td><p align="center"><img src="/Gambar/Screenshot-Laravel02.png"></p></td>
+    <td><p align="center"><img src="/Pictures/Screenshot-home.png"></p></td>
+    <td><p align="center"><img src="/Gambar/Screenshot-halaman web.png"></p></td>
   </tr>
 </table>
 
