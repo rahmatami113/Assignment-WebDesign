@@ -17,6 +17,7 @@ This is one of assignments, make a website view
   <tr>
     <td><p align="center"><img src="/Pictures/Screenshot-home.png" height="500"></p></td>
     <td><p align="center"><img src="/Pictures/Screenshot-halaman web.jpg" height="500"></p></td>
+    <td><p align="center"><img src="/Pictures/Screenshot-Flower.jpg" height="500"></p></td>
    </tr>
 </table>
 
